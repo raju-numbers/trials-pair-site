@@ -1,0 +1,27 @@
+{
+  "name": "web-pair",
+  "version": "1.0.0",
+  "description": "WhatsApp pairing system using Baileys with xhypher tech storage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "Akshay-Eypz",
+    "EypzX",
+    "Baileys",
+    "whatsapp",
+    "pairing",
+    "hastebin"
+  ],
+  "author": "Eypz",
+  "license": "MIT",
+  "dependencies": {
+    "@eypzx/baileys": "latest",
+    "axios": "^1.13.6",
+    "chalk": "^5.6.2",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
